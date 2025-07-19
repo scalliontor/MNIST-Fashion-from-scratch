@@ -1,6 +1,7 @@
 # Fashion MNIST Classification from Scratch
 
 A neural network implementation built from scratch in Python to classify Fashion MNIST dataset without using TensorFlow, PyTorch, or any other deep learning frameworks.
+Check out my note: https://www.notion.so/Neural-Network-232838f5c28180ad9090ff4da69ec204?source=copy_link
 
 ## Overview
 
@@ -11,6 +12,7 @@ This project demonstrates the fundamental concepts of neural networks by impleme
 - Categorical cross-entropy loss
 - Adam optimizer with learning rate decay
 - Backpropagation algorithm
+
 
 ## Architecture
 
